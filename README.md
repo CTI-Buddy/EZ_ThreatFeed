@@ -34,7 +34,7 @@ pip install requests pandas
 To run the script, simply execute the following command:
 
 ```bash
-python aggregator.py
+python EZ_ThreatFeed.py
 ```
 
 This will fetch the latest IOCs from the defined sources, process them, and save the results in either JSON or CSV format in the current working directory.
@@ -97,7 +97,7 @@ To contribute:
 1. Fork the repository.
 2. Clone your fork:
     ```bash
-    git clone https://github.com/yourusername/threat-intelligence-aggregator.git
+    git clone https://github.com/GrandpaRoger/EZ_ThreatFeed.git
     ```
 3. Create a new branch:
     ```bash
