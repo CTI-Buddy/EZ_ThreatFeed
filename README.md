@@ -97,7 +97,7 @@ To contribute:
 1. Fork the repository.
 2. Clone your fork:
     ```bash
-    git clone https://github.com/GrandpaRoger/EZ_ThreatFeed.git
+    git clone https://github.com/CTI-Buddy/EZ_ThreatFeed.git
     ```
 3. Create a new branch:
     ```bash
